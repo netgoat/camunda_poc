@@ -1,0 +1,15 @@
+{
+    "name": "camunda_client",
+    "version": "1.0.0",
+    "description": "",
+    "main": "worker.js",
+    "scripts": {
+        "start": " node worker.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ghazi Ben Maaouia",
+    "license": "ISC",
+    "dependencies": {
+        "camunda-external-task-client-js": "^2.2.0"
+    }
+}
